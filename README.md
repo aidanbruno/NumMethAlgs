@@ -1,1 +1,1 @@
-# NumericalMethodsAlgorithims
+# NumMethAlgs
