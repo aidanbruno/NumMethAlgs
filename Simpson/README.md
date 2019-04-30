@@ -6,3 +6,6 @@ of function values [y] with respect to [x]
 - y - dependent variable
 ## Outputs ##
 - I - Value of the integral
+## Limitations ##
+- Input arguments must be the same length
+- x values must be equally spaced
