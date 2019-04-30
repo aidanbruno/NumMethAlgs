@@ -1,7 +1,7 @@
 ## Golden Method ## 
 minimization golden section search
 ## Inputs ##
- f = name of function
+- f = name of function
 - xl,xu = lower and upper guesses
 - es = desired relative error (default = .0001%)
 - maxit = maximum allowable iterations (default is 50)
