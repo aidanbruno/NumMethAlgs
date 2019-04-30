@@ -1,3 +1,4 @@
 ## Numerical Methods Algorithims ##
 ## Description ##
-These are my algorithims for my Mech 105 class
+This repository contains all algorithims created by Aidan Bruno 
+for MECH 105
