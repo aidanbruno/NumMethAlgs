@@ -6,4 +6,7 @@ composite trapazoidal Rule
 - n = number of segments
 ## Outputs ## 
 I = integral estimate
+## Limitations ##
+- Must have at least 3 input arguments
+- Upper bound must be greater than the lower bound
 
