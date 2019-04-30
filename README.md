@@ -1,4 +1,3 @@
 ## Numerical Methods Algorithims ##
 ## Description ##
-These are my algorithims for my Mech 105 class
-
+These are my algorithims for my Mech 105 class, seperated into folders for organization
