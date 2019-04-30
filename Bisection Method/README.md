@@ -15,3 +15,7 @@ Bisect root location zeroes
 - fx = function value at root
 - ea = approximate relative error (%)
 - iter = number of iterations
+
+## Limitations ##
+- Matrix must be square
+- Matrix must be larger than 1x1
